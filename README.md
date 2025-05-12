@@ -1,0 +1,2 @@
+# WordCounter
+Javascript mini project
